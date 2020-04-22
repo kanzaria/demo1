@@ -3,6 +3,8 @@ This is a sample demo.
 
 Adding a line for rebashing!
 
+More Changes from newfeature branch!
+
 ## Introduction
 This is a Introduction !
 
