@@ -8,4 +8,8 @@ Adding line before rebash conflict!
 
 New Changes ! after rebase!
 
+<<<<<<< HEAD
 New Changes from Pull with release !
+=======
+Changes made from the git portal!
+>>>>>>> a223e9533a3ea500af835aa740e8cbf63ca51f81
