@@ -5,6 +5,8 @@ Adding a line for rebashing!
 
 More Changes from newfeature branch!
 
+Emegancy fixes!
+
 ## Introduction
 This is a Introduction !
 
