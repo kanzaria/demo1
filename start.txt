@@ -5,3 +5,5 @@ Adding line before rebash conflict!
 
 
 2nd adding from the master branch !
+
+New Changes ! after rebase!
