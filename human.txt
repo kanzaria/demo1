@@ -6,3 +6,5 @@ Added from newfeature branch!
 
 This is test of demo!
 
+Adding line for branch multiple stash!
+
