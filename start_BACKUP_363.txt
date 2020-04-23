@@ -1,0 +1,11 @@
+Test Git Quick Start Demo
+
+Adding line before rebash conflict!
+
+<<<<<<< HEAD
+
+
+2nd adding from the master branch !
+=======
+Changes from the bigtrouble branch!
+>>>>>>> b3f5d00... fb befor rebase conflict
