@@ -1,3 +1,0 @@
-Test Git Quick Start Demo
-
-Adding line before rebash conflict!

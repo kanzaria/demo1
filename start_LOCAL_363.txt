@@ -1,7 +1,0 @@
-Test Git Quick Start Demo
-
-Adding line before rebash conflict!
-
-
-
-2nd adding from the master branch !

@@ -1,5 +1,0 @@
-Test Git Quick Start Demo
-
-Adding line before rebash conflict!
-
-Changes from the bigtrouble branch!
