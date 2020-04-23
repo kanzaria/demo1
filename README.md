@@ -19,3 +19,5 @@ Please fork this repository!
 
 ### Copyrights
 Hi this is coppt right material.
+
+All right reserved!
